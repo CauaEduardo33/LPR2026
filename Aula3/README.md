@@ -1,1 +1,1 @@
-Repositório de LPR do curso de DS de 2026.
+Diretório contendo os exercícios da aula 3.
