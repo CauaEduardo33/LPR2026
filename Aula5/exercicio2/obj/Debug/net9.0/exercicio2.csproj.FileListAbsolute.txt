@@ -1,0 +1,15 @@
+C:\Users\alunos\Desktop\LPR2026\Aula5\exercicio2\bin\Debug\net9.0\exercicio2.exe
+C:\Users\alunos\Desktop\LPR2026\Aula5\exercicio2\bin\Debug\net9.0\exercicio2.deps.json
+C:\Users\alunos\Desktop\LPR2026\Aula5\exercicio2\bin\Debug\net9.0\exercicio2.runtimeconfig.json
+C:\Users\alunos\Desktop\LPR2026\Aula5\exercicio2\bin\Debug\net9.0\exercicio2.dll
+C:\Users\alunos\Desktop\LPR2026\Aula5\exercicio2\bin\Debug\net9.0\exercicio2.pdb
+C:\Users\alunos\Desktop\LPR2026\Aula5\exercicio2\obj\Debug\net9.0\exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\Desktop\LPR2026\Aula5\exercicio2\obj\Debug\net9.0\exercicio2.AssemblyInfoInputs.cache
+C:\Users\alunos\Desktop\LPR2026\Aula5\exercicio2\obj\Debug\net9.0\exercicio2.AssemblyInfo.cs
+C:\Users\alunos\Desktop\LPR2026\Aula5\exercicio2\obj\Debug\net9.0\exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Desktop\LPR2026\Aula5\exercicio2\obj\Debug\net9.0\exercicio2.sourcelink.json
+C:\Users\alunos\Desktop\LPR2026\Aula5\exercicio2\obj\Debug\net9.0\exercicio2.dll
+C:\Users\alunos\Desktop\LPR2026\Aula5\exercicio2\obj\Debug\net9.0\refint\exercicio2.dll
+C:\Users\alunos\Desktop\LPR2026\Aula5\exercicio2\obj\Debug\net9.0\exercicio2.pdb
+C:\Users\alunos\Desktop\LPR2026\Aula5\exercicio2\obj\Debug\net9.0\exercicio2.genruntimeconfig.cache
+C:\Users\alunos\Desktop\LPR2026\Aula5\exercicio2\obj\Debug\net9.0\ref\exercicio2.dll
