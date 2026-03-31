@@ -18,7 +18,7 @@ for(int i=0; i<pow_num_string.Length; ++i)
 
 }
 
-Console.WriteLine($"A soma dos algarismos do qudrado de {base_num_string}({pow_num_string}) é {soma}.");
+Console.WriteLine($"A soma dos algarismos do quadrado de {base_num_string}({pow_num_string}) é {soma}.");
 
 
 
