@@ -2,6 +2,7 @@
 
 
 
+// Pega 10 números inseridos pelo usuário
 for(int i=0; i<inteiros.Length; i++)
 {
     Console.Write("Insira um número inteiro: ");
@@ -10,6 +11,7 @@ for(int i=0; i<inteiros.Length; i++)
 
 }
 
+// Variável para saída do loop 
 bool exit = false;
 
 while (!exit)
@@ -20,6 +22,7 @@ while (!exit)
     
     for(int i=0; i<inteiros.Length; i++)
     {
+        
         if(inteiros[i] == req_num)
         {
             Console.WriteLine($"O número foi encontrado na posição {i}.");

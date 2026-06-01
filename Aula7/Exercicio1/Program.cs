@@ -5,6 +5,7 @@ int[] inteiros = new int[10];
 int quant_pares = 0;
 int quant_impares = 0;
 
+// Atribui o valor ao primeiro endereço sem valor(na verdade com o valor padrão, que para inteiros é 0)
 void atributeToNullIndex(ref int[] v, int val)
 {
     for(int i=0; i<v.Length; i++)
