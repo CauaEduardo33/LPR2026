@@ -1,4 +1,4 @@
-## Vetores e Matrizes
+# Vetores e Matrizes
 
 Essa aula foi dedicada ao aprendizado de vetores e matrizes. Com o conceito de vetores sendo aplicados nos exercícios 1 e 2 feitos no c#.
 
