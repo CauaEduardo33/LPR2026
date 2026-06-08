@@ -1,0 +1,15 @@
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio1_iniciante\bin\Debug\net9.0\Exercicio1_iniciante.exe
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio1_iniciante\bin\Debug\net9.0\Exercicio1_iniciante.deps.json
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio1_iniciante\bin\Debug\net9.0\Exercicio1_iniciante.runtimeconfig.json
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio1_iniciante\bin\Debug\net9.0\Exercicio1_iniciante.dll
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio1_iniciante\bin\Debug\net9.0\Exercicio1_iniciante.pdb
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio1_iniciante\obj\Debug\net9.0\Exercicio1_iniciante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio1_iniciante\obj\Debug\net9.0\Exercicio1_iniciante.AssemblyInfoInputs.cache
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio1_iniciante\obj\Debug\net9.0\Exercicio1_iniciante.AssemblyInfo.cs
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio1_iniciante\obj\Debug\net9.0\Exercicio1_iniciante.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio1_iniciante\obj\Debug\net9.0\Exercicio1_iniciante.sourcelink.json
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio1_iniciante\obj\Debug\net9.0\Exercicio1_iniciante.dll
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio1_iniciante\obj\Debug\net9.0\refint\Exercicio1_iniciante.dll
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio1_iniciante\obj\Debug\net9.0\Exercicio1_iniciante.pdb
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio1_iniciante\obj\Debug\net9.0\Exercicio1_iniciante.genruntimeconfig.cache
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio1_iniciante\obj\Debug\net9.0\ref\Exercicio1_iniciante.dll
