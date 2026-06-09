@@ -1,0 +1,15 @@
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio4_avancado\bin\Debug\net9.0\Exercicio4_avancado.exe
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio4_avancado\bin\Debug\net9.0\Exercicio4_avancado.deps.json
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio4_avancado\bin\Debug\net9.0\Exercicio4_avancado.runtimeconfig.json
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio4_avancado\bin\Debug\net9.0\Exercicio4_avancado.dll
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio4_avancado\bin\Debug\net9.0\Exercicio4_avancado.pdb
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio4_avancado\obj\Debug\net9.0\Exercicio4_avancado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio4_avancado\obj\Debug\net9.0\Exercicio4_avancado.AssemblyInfoInputs.cache
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio4_avancado\obj\Debug\net9.0\Exercicio4_avancado.AssemblyInfo.cs
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio4_avancado\obj\Debug\net9.0\Exercicio4_avancado.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio4_avancado\obj\Debug\net9.0\Exercicio4_avancado.sourcelink.json
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio4_avancado\obj\Debug\net9.0\Exercicio4_avancado.dll
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio4_avancado\obj\Debug\net9.0\refint\Exercicio4_avancado.dll
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio4_avancado\obj\Debug\net9.0\Exercicio4_avancado.pdb
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio4_avancado\obj\Debug\net9.0\Exercicio4_avancado.genruntimeconfig.cache
+C:\Users\alunos\Desktop\LPR2026\Aula7\Exercicio4_avancado\obj\Debug\net9.0\ref\Exercicio4_avancado.dll
