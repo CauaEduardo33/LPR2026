@@ -17,6 +17,6 @@ A lógica implementada para clcular o produto das matrizes 3x3 foi a equação *
 ## Exercício 4(Avançado) - Classificação de alunos
 Nesse exercício, foram principalmente usados conceitos das aulas de estruturas de repetição e funções, sendo cada tarefa do programa dividida em funções, as quais são: `CalcularMedia()`, `InputAlunos()`, `ClassficarAluno` e `ExibirRelatorio()`.
 
-##Exercício 8(Avançado) - Matriz de cadeiras de cinema
+## Exercício 8(Avançado) - Matriz de cadeiras de cinema
 As funcionalidades necessárias foram também modularizadas em funções, sendo elas: `VerificaAssento()`, `ReservarAssento()`, `CancelarReserva`, `ConsultarAssento()`, `MostrarMapaDaSala()` e `menu()`.
 
