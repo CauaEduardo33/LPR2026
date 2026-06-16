@@ -5,19 +5,6 @@ int[] inteiros = new int[10];
 int quant_pares = 0;
 int quant_impares = 0;
 
-// Atribui o valor ao primeiro endereço sem valor(na verdade com o valor padrão, que para inteiros é 0)
-void atributeToNullIndex(ref int[] v, int val)
-{
-    for(int i=0; i<v.Length; i++)
-    {
-        if(v[i] == 0) {
-         v[i] = val;
-         return;
-        }
-
-   }
-}
-
 void printVector(int[] v)
 {
     foreach(int num in v)
@@ -40,10 +27,20 @@ for(int i=0; i<inteiros.Length; i++)
 int[] pares = new int[quant_pares];
 int[] impares = new int[quant_impares];
 
- foreach(int num in inteiros)
+int i_pares=0,i_impares=0;
+
+for(int i=0; i<inteiros.Length; i++)
 {
-    if(num % 2 == 0) atributeToNullIndex(ref pares, num);
-    else atributeToNullIndex(ref impares, num);
+    if (inteiros[i] % 2 == 0)
+    {
+        pares[i_pares] = inteiros[i];
+        i_pares++;
+    }
+    else
+    {
+        impares[i_impares];
+        i_impares++;
+    }
 }
 
 Console.Write("Pares: "); printVector(pares);
