@@ -1,0 +1,7 @@
+# Configurações do VS Code
+.vscode/
+
+# Pastas e arquivos de output
+output/
+[Oo]utput/
+*.out
