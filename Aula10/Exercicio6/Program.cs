@@ -1,0 +1,1 @@
+﻿using Exercicio6;
